@@ -199,6 +199,7 @@ main.content {
 
 /* ===== НОВОСТИ ===== */
 .news-container {
+    margin-top: 30px;
     display: grid; /* Сеточное расположение новостей */
     gap: 25px; /* Расстояние между новостями */
 }
